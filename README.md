@@ -1,2 +1,6 @@
-# Automatic_Speech_Recognition
-A multilingual speech-to-text system for 22 Indic languages using MMS-LID and IndicConformer with automatic language detection and transcription.
+# Multilingual Indic Speech Recognition
+
+A multilingual speech-to-text system supporting 22 Indian languages using:
+
+- MMS-LID-1024 for language identification
+- IndicConformer for transcription
