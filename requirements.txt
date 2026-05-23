@@ -1,0 +1,14 @@
+
+torch
+torchaudio
+torchcodec
+gradio
+transformers
+huggingface_hub
+soundfile
+spaces
+onnxruntime
+transformers
+datasets[audio]
+accelerate
+librosa
