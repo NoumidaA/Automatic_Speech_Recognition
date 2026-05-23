@@ -13,9 +13,6 @@ This project enables users to upload or record speech audio and automatically re
 - and RNNT transcription.
 
 ---
-
-# Live Demo
-
 ## Hugging Face Space
 
 https://huggingface.co/spaces/Noumida/ASR_New
